@@ -9,7 +9,7 @@ Zero dependencies beyond Python 3.6+ stdlib. Husky Hacker branding.
 ## Install
 
 ```bash
-git clone https://github.com/YOUR_USER/huskyreport.git
+git clone https://github.com/TheHuskyHacker/oscp-report-gen
 cd huskyreport
 chmod +x report.py
 sudo ln -s $(pwd)/report.py /usr/local/bin/report
